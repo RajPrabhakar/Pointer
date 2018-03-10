@@ -24,9 +24,9 @@ import android.view.ScaleGestureDetector;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.rajprabhakar.qrscanner.ui.camera.CameraSource;
-import com.example.rajprabhakar.qrscanner.ui.camera.CameraSourcePreview;
-import com.example.rajprabhakar.qrscanner.ui.camera.GraphicOverlay;
+import com.example.rajprabhakar.pointer.ui.camera.CameraSource;
+import com.example.rajprabhakar.pointer.ui.camera.CameraSourcePreview;
+import com.example.rajprabhakar.pointer.ui.camera.GraphicOverlay;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 import com.google.android.gms.common.api.CommonStatusCodes;
