@@ -9,16 +9,16 @@
     android:keepScreenOn="true"
     tools:context="com.example.rajprabhakar.pointer.BarcodeCaptureActivity">
 
-    <com.example.rajprabhakar.qrscanner.ui.camera.CameraSourcePreview
+    <com.example.rajprabhakar.pointer.ui.camera.CameraSourcePreview
         android:id="@+id/preview"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.example.rajprabhakar.qrscanner.ui.camera.GraphicOverlay
+        <com.example.rajprabhakar.pointer.ui.camera.GraphicOverlay
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/graphicOverlay"/>
 
-    </com.example.rajprabhakar.qrscanner.ui.camera.CameraSourcePreview>
+    </com.example.rajprabhakar.pointer.ui.camera.CameraSourcePreview>
 
 </android.support.constraint.ConstraintLayout>
